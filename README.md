@@ -7,7 +7,7 @@ The project uses Python and the following libraries:
 
 1. Clone the repository:
    ```bash
-   git clone [<repository_url>](https://github.com/SpottedBush/ReinforcmentLearning-Gold_Rush.git)
+   git clone https://github.com/SpottedBush/ReinforcmentLearning-Gold_Rush.git
 2. Install the required dependencies:
    pip install -r requirements.txt
 
